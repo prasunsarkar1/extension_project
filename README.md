@@ -21,22 +21,22 @@ extension_project/
 ## 🛠️ Installation & Usage
 
 1. **Clone the repository:**
-   ```bash
+   ```
    git clone https://github.com/prasunsarkar1/extension_project.git
 
 2.Navigate to the project directory:
-
-
-cd extension_project
+  ```
+  cd extension_project
+```
 
 3.Install dependencies:
-
-npm install
-
+  ```
+  npm install
+```
 4.Start the backend server:
-
+```
 node server.js
-
+```
 5.Load the extension in your browser:
 
 -Open your browser's extension management page.
